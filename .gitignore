@@ -5,8 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-Uber Data Model.jpeg
-uber_data_analytics_project_architecture.jpg
+src
 
 # Distribution / packaging
 .Python
